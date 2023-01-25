@@ -1,0 +1,44 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+nav{
+  background-color: black;
+  height: 40px;
+  width: 100%;
+  text-align: center;
+
+}
+
+nav a{
+  padding: 30px;
+  margin-top: 20px;
+  text-decoration: none;
+  color: bisque;
+}
+
+
+
+
+
+
+.size{
+  
+  width: 50%;
+}
+
+
+
+.btn{
+  background-color: rgb(34, 38, 38);
+  text-decoration: none;
+  margin-left: 40px;
+  color: azure;
+}
+
+.btn:hover{
+  background-color: rgb(73, 97, 97);
+}
+
